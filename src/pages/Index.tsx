@@ -15,9 +15,9 @@ const Index = () => {
       <nav className="flex items-center justify-between p-6 max-w-7xl mx-auto">
         <div className="text-white font-bold text-xl">Infinity AI</div>
         <div className="flex items-center gap-4">
-          <Button variant="ghost" className="text-white hover:text-purple-200">About</Button>
-          <Button variant="ghost" className="text-white hover:text-purple-200">Services</Button>
-          <Button variant="ghost" className="text-white hover:text-purple-200">Contact</Button>
+          <a href="/about" className="text-white hover:text-purple-200">About</a>
+          <a href="/services" className="text-white hover:text-purple-200">Services</a>
+          <a href="/contact" className="text-white hover:text-purple-200">Contact</a>
         </div>
       </nav>
 
