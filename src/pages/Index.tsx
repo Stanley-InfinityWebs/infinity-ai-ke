@@ -13,7 +13,7 @@ const Index = () => {
     <div className="min-h-screen bg-gradient-to-br from-slate-900 via-purple-900 to-slate-900">
       {/* Header */}
       <nav className="flex items-center justify-between p-6 max-w-7xl mx-auto">
-        <div className="text-white font-bold text-xl">workflows.diy</div>
+        <div className="text-white font-bold text-xl">Infinity AI</div>
         <div className="flex items-center gap-4">
           <Button variant="ghost" className="text-white hover:text-purple-200">About</Button>
           <Button variant="ghost" className="text-white hover:text-purple-200">Services</Button>
@@ -32,7 +32,7 @@ const Index = () => {
             <CardHeader className="text-center">
               <CardTitle className="text-3xl font-bold text-white mb-2">Premium Coaching</CardTitle>
               <CardDescription className="text-2xl font-bold text-purple-400">
-                $4,700.00 / month
+                $497 / month
               </CardDescription>
             </CardHeader>
             <CardContent className="space-y-4">
@@ -114,7 +114,7 @@ const Index = () => {
       {/* Footer */}
       <footer className="py-8 px-6 border-t border-slate-700">
         <div className="max-w-7xl mx-auto text-center text-slate-400">
-          <p>© 2024 workflows.diy. All rights reserved.</p>
+          <p>© 2024 Infinity AI. All rights reserved.</p>
         </div>
       </footer>
     </div>

@@ -14,7 +14,7 @@ const Pricing = () => {
             <CardHeader className="text-center">
               <CardTitle className="text-xl text-white">One-off Call</CardTitle>
               <CardDescription className="text-3xl font-bold text-purple-400 mt-2">
-                $197.00
+                $97
               </CardDescription>
             </CardHeader>
             <CardContent className="space-y-4">
@@ -51,7 +51,7 @@ const Pricing = () => {
             <CardHeader className="text-center">
               <CardTitle className="text-xl text-white">Monthly Coaching</CardTitle>
               <CardDescription className="text-3xl font-bold text-purple-400 mt-2">
-                $4,700.00 / month
+                $497 / month
               </CardDescription>
             </CardHeader>
             <CardContent className="space-y-4">
